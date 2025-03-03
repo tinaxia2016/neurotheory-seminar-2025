@@ -22,8 +22,7 @@
 - **4/2/25**: **No class (COSYNE)**
 - **4/9/25**: Synaptic Plasticity – *Kris Wu*
 - **4/16/25**: TBA – *Samuel Muscinelli*
-- **4/23/25**: Meta-Learning – *Kaushik Lakshminarasimhan*
-- **4/30/25**: Low-Rank RNNs – *Manuel Beiran*
-
+- **4/23/25**: Meta-Learning (part 1) – *Kaushik Lakshminarasimhan*
+- **4/30/25**: Meta-Learning (part 2) – *Kaushik Lakshminarasimhan*
 ### May
 - **5/7/25**: Student Presentations
